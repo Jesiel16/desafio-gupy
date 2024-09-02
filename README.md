@@ -97,7 +97,7 @@ ________________________________________________________________________________
 ## Resolvendo segundo desafio de código - Estágio São Paulo
 
 
-## Desafio: Verificação de Pertinência à Sequência de Fibonacci
+### Desafio: Verificação de Pertinência à Sequência de Fibonacci
 
 **Objetivo:** Verificar se um número informado pertence à sequência de Fibonacci.
 
@@ -174,9 +174,9 @@ Este programa lê dados de faturamento diário de um arquivo JSON e calcula o me
 
 __________________________________________________________________________________________________________________________________________________________________________________________
 
-# Resolvendo o quarto desafio de código - Estágio São Paulo 
+## Resolvendo o quarto desafio de código - Estágio São Paulo 
 
-## Desafio: Cálculo do Percentual de Representação dos Estados
+### Desafio: Cálculo do Percentual de Representação dos Estados
 
 ### Objetivo:
 Calcular o percentual de representação de cada estado no faturamento total da distribuidora.
@@ -212,9 +212,9 @@ Este programa calcula o percentual de faturamento de cada estado em relação ao
 
 _________________________________________________________________________________________________________________________________________________________________________________________
 
-# Resolvendo o quinto desafio de código - Estágio São Paulo
+## Resolvendo o quinto desafio de código - Estágio São Paulo
 
-## Desafio: Inversão de string 
+### Desafio: Inversão de string 
 
 ### Objetivo: 
 Inverter os caracteres de uma string sem usar funções prontas como reverse.
